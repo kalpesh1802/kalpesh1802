@@ -2,9 +2,7 @@
 
 ### 🚀 Aspiring Data Scientist | 📈 AI/ML Enthusiast | 📊 Data Analyst | 📈 Data Enthusiast | 🧠 Problem Solver
 
-Welcome to my GitHub!
-
-Welcome to my GitHub!
+Welcome to my GitHub 
 
 I am passionate about leveraging data, machine learning, and artificial intelligence to solve real-world problems and create data-driven solutions. My journey focuses on Data Science, Machine Learning, Data Analytics, and Business Intelligence, where I continuously build projects that transform raw data into actionable insights.
 

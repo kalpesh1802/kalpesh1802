@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kalpesh Patil
 
-### 🚀 Aspiring Data Scientist | 📈 AI/ML Enthusiast | 📊 Data Analyst | 📈 Data Enthusiast | 🧠 Problem Solver
+### 🚀 Aspiring Data Scientist | 📈 AI/ML Enthusiast | 📊 Data Analyst | 🧠 Problem Solver
 
 Welcome to my GitHub 
 

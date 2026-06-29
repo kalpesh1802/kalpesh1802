@@ -68,14 +68,11 @@ I am continuously expanding my knowledge in Artificial Intelligence, Machine Lea
 ---
 
 ## 🎯 Career Goal
-
 To become a Data Scientist / AI-ML Engineer who can build intelligent systems, extract valuable insights from data, and solve impactful business problems using Machine Learning and Artificial Intelligence.
 
 ---
 
 ## 📫 Connect With Me
-
-* GitHub: https://github.com/kalpesh1802
 * LinkedIn: https://www.linkedin.com/in/kalpesh-patil-1964a7261/
 * Email: kalpeshpatil8558@gmail.com
 

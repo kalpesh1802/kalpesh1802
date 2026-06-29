@@ -4,76 +4,47 @@
 
 Welcome to my GitHub 
 
-I am passionate about leveraging data, machine learning, and artificial intelligence to solve real-world problems and create data-driven solutions. My journey focuses on Data Science, Machine Learning, Data Analytics, and Business Intelligence, where I continuously build projects that transform raw data into actionable insights.
+I am passionate about leveraging data, machine learning, and artificial intelligence to solve real-world problems and create data-driven solutions. My journey focuses on Ai Engineer, Data Science, Machine Learning, Data Analytics, and Business Intelligence, where I continuously build projects that transform raw data into actionable insights.
 
 Through hands-on projects and continuous learning, I am developing expertise in data analysis, statistical modeling, machine learning algorithms, predictive analytics, and interactive dashboard development. I enjoy exploring datasets, uncovering hidden patterns, and building intelligent solutions that support data-driven decision-making.
 
-This portfolio showcases my skills, projects, and practical experience across Data Science, Data Analytics, Machine Learning, SQL, Python, and Business Intelligence. Here, you will find a collection of real-world projects, dashboards, and analytical solutions that demonstrate my ability to extract meaningful insights, solve business problems, and turn data into impactful decisions.
-
 I am continuously expanding my knowledge in Artificial Intelligence, Machine Learning, Cloud Technologies, and Advanced Analytics while applying these concepts through practical projects and hands-on experience.
-
----
-
-## 🔬 Areas of Interest
-
-* Data Science
-* Machine Learning
-* Artificial Intelligence
-* Data Analytics
-* Business Intelligence
-* Predictive Analytics
-* Deep Learning
-* Computer Vision
-* Natural Language Processing (NLP)
-* Generative AI
-
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Data Science
+### Programming & Databases
 
 * Python
 * SQL (MySQL)
-* Statistics
-* ML fundamentals & Algorithms
-* OpenCV
-* DL fundamentals & Neural Networks
-* Genrative Ai & LLM
 
 ### Python Libraries
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* TensorFlow
-* Keras
-* OpenCV
+* Pandas,Numpy,Matplotlib,Seaborn,Scikit-Learn,Tensorflow,Keras,OpenCV
 
 ### Data Analytics & Visualization
 
 * Power BI
 * Excel
-* DAX
-* Power Query
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 
-### Databases
-
-* MySQL
-
 ### Machine Learning
 
-* Supervised Learning
-* Unsupervised Learning
-* Feature Engineering
-* Model Evaluation
-* Classification
-* Regression
+* Supervised & Unsupervised Learning
+* Algorithms & Model Evaluation
+* Classification & Regression
 * Clustering
+
+### Deep Learning
+
+* ANN,CNN,RNN
+* Optimezer
+* NLP
+* LSTM
+* Transformers
+* Attentions Mechanism
+
 
 ### Tools & Platforms
 
@@ -81,11 +52,20 @@ I am continuously expanding my knowledge in Artificial Intelligence, Machine Lea
 * Jupyter Notebook
 * VS Code
 * Google Colab
+* Streamlit
 
 ### Cloud & Big Data (Learning)
 
 * AWS
 * Azure
+
+### GenAi & LLM
+* LangChain
+* Rag
+* Vector DataBases(FAISS,ChromaDB,Pincore)
+* AI Agent
+* Fine Tunning
+* Prompt Engineering
 
 ---
 

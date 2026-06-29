@@ -67,43 +67,6 @@ I am continuously expanding my knowledge in Artificial Intelligence, Machine Lea
 
 ---
 
-## 📊 Featured Projects
-
-### 🏥 Hospital Management Analytics System
-
-* Designed a relational database using MySQL.
-* Performed healthcare data analysis using SQL.
-* Built interactive Power BI dashboards.
-* Generated insights from patient, diagnosis, admission, and billing data.
-
-### 📈 Data Analytics Projects
-
-* Data Cleaning and Transformation
-* Exploratory Data Analysis (EDA)
-* KPI and Business Reporting
-* Dashboard Development
-
-### 🤖 Machine Learning Projects
-
-* Classification Models
-* Regression Models
-* Predictive Analytics
-* Model Evaluation & Optimization
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* Large Language Models (LLMs)
-* Generative AI
-* Cloud Technologies (AWS & Azure)
-* MLOps
-
----
-
 ## 🎯 Career Goal
 
 To become a Data Scientist / AI-ML Engineer who can build intelligent systems, extract valuable insights from data, and solve impactful business problems using Machine Learning and Artificial Intelligence.

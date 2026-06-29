@@ -7,9 +7,7 @@ Welcome to my GitHub
 I am passionate about leveraging data, machine learning, and artificial intelligence to solve real-world problems and create data-driven solutions. My journey focuses on Ai Engineer, Data Science, Machine Learning, Data Analytics, and Business Intelligence, where I continuously build projects that transform raw data into actionable insights.
 
 Through hands-on projects and continuous learning, I am developing expertise in data analysis, statistical modeling, machine learning algorithms, predictive analytics, and interactive dashboard development. I enjoy exploring datasets, uncovering hidden patterns, and building intelligent solutions that support data-driven decision-making.
-
 I am continuously expanding my knowledge in Artificial Intelligence, Machine Learning, Cloud Technologies, and Advanced Analytics while applying these concepts through practical projects and hands-on experience.
----
 
 ## 🛠️ Technical Skills
 
